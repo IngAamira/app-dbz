@@ -37,7 +37,7 @@ This service manages the logic for characters, including the addition and deleti
 
 ## Installation
 
-1. Clone the repository: `git clone https://your-repository-url.git`
+1. Clone the repository: `git clone https://github.com/IngAamira/dbzapp.git`
 2. Install dependencies: `npm install`
 3. Start the application: `ng serve`
 
