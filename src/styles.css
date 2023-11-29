@@ -3,7 +3,7 @@
 
 /* Estilos Generales */
 body {
-  background: linear-gradient(to right, #FF8C00, #008000); /* Ejemplo de fondo degradado */
+  background: linear-gradient(to right, #5774f3, #1c0a7e); /* Ejemplo de fondo degradado */
   font-family: 'Open Sans', sans-serif; /* Cambia 'Open Sans' por la fuente que prefieras */
   color: #fff; /* Color de texto principal */
 }
@@ -18,7 +18,7 @@ body {
 }
 
 .form-control {
-  background-color: #343a40; /* Color de fondo del formulario */
+  background-color: #bfcbd8; /* Color de fondo del formulario */
   color: #fff; /* Color de texto en el formulario */
 }
 

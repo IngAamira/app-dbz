@@ -1,13 +1,12 @@
 <h4>Add Character</h4>
 
 <form class="row" (ngSubmit)="emitCharacter()">
-
   <input
     type="text"
     [(ngModel)]="character.name"
     name="name"
     class="form-control mb-2"
-    placeholder="Nombre">
+    placeholder="Name">
 
   <input
     type="number"
@@ -19,5 +18,4 @@
   <button type="submit" class="btn btn-primary">
     Add
   </button>
-
 </form>
